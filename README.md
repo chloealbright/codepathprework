@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **Chloe Zambrano**
+Submitted by: **Chloe Albright**
 
 Time spent: **6** hours spent in total
 
@@ -66,7 +66,7 @@ For example, I would prefer to generate different sounds each time the game star
 
 ## License
 
-    Copyright [Chloe Zambrano]
+    Copyright [Chloe Albright]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
