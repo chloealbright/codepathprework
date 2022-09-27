@@ -4,8 +4,6 @@
 
 Submitted by: **Chloe Albright**
 
-Time spent: **6** hours spent in total
-
 Link to project: (https://glitch.com/edit/#!/codepath-game)
 
 ## Required Functionality
